@@ -1,0 +1,4 @@
+
+javac -d ../../../../classes *.java
+
+
